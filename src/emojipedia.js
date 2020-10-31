@@ -19,5 +19,14 @@ const emojipedia = [
     name: "Rolling On The Floor, Laughing",
     meaning:
       "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
+  },
+  {
+    id: 4,
+    emoji: "📱",
+    name: "Watch",
+    meaning:
+    "I need to hurry or When will you be there? Timekeeper and status symbol. Emoji is used in a time-related context, e.g. dates, deadlines, appointments or delays."
   }
 ];
+
+export default emojipedia;
